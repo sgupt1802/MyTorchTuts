@@ -18,14 +18,10 @@ Welcome to the PyTorch Tutorials and Experiments repository! This repository is 
 - **Introduction to PyTorch**: Learn the fundamentals of PyTorch, including tensors, operations, and automatic differentiation.
 - **Building Neural Networks**: Explore building neural networks using PyTorch's `nn` module, including fully connected layers, convolutional layers, and recurrent layers.
 
-### 2. Experiments
+### 2. Experiments (Done and Upcoming)
 - **Image Classification**: Building a Deep Neural Network from the scratch and training it, making predictions on the train and test set.
 - **Image Classification**: Build and train convolutional neural networks (CNNs) for image classification tasks using popular datasets like MNIST and CIFAR-10.
 - **Text Classification**: Experiment with recurrent neural networks (RNNs) and long short-term memory networks (LSTMs) for text classification tasks.
-
-### 3. Projects
-- **Neural Style Transfer**: Implement neural style transfer using deep neural networks to apply artistic styles to images.
-- **Reinforcement Learning**: Experiment with reinforcement learning algorithms using PyTorch, including Q-learning and policy gradient methods.
 
 ## Getting Started
 
