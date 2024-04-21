@@ -1,6 +1,7 @@
 # PyTorch Tutorials and Experiments
 
 Welcome to the PyTorch Tutorials and Experiments repository! This repository is a comprehensive collection of tutorials, experiments, and projects aimed at mastering the PyTorch deep learning framework.
+I will also be adding the Machine Learning algorithm notebooks i learnt.
 
 ## About PyTorch
 
